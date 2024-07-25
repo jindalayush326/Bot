@@ -14,7 +14,7 @@ First, clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/bot.git
+git clone https://github.com/jindalayush326/bot.git
 cd bot
 2. Create a Virtual Environment
 Create a virtual environment to isolate the project dependencies:
